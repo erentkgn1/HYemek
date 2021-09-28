@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiYemek.API", "HepsiYemek.API\HepsiYemek.API.csproj", "{DEA567FE-953B-424F-9CA0-D873B4A8AE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiYemek.Entities", "HepsiYemek.Entities\HepsiYemek.Entities.csproj", "{3742CB35-8D8D-47DD-AFE5-B27C68BE3653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiYemek.Services", "HepsiYemek.Services\HepsiYemek.Services.csproj", "{7B5B6AAD-19A6-4FC1-AF8E-8E06E5B0ABCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiYemek.DataAccess", "HepsiYemek.DataAccess\HepsiYemek.DataAccess.csproj", "{74F60A7A-285E-4E46-8D4B-459BAF3336C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA567FE-953B-424F-9CA0-D873B4A8AE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA567FE-953B-424F-9CA0-D873B4A8AE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA567FE-953B-424F-9CA0-D873B4A8AE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA567FE-953B-424F-9CA0-D873B4A8AE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3742CB35-8D8D-47DD-AFE5-B27C68BE3653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3742CB35-8D8D-47DD-AFE5-B27C68BE3653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3742CB35-8D8D-47DD-AFE5-B27C68BE3653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3742CB35-8D8D-47DD-AFE5-B27C68BE3653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5B6AAD-19A6-4FC1-AF8E-8E06E5B0ABCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5B6AAD-19A6-4FC1-AF8E-8E06E5B0ABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5B6AAD-19A6-4FC1-AF8E-8E06E5B0ABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5B6AAD-19A6-4FC1-AF8E-8E06E5B0ABCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F60A7A-285E-4E46-8D4B-459BAF3336C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F60A7A-285E-4E46-8D4B-459BAF3336C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F60A7A-285E-4E46-8D4B-459BAF3336C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F60A7A-285E-4E46-8D4B-459BAF3336C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8715E957-19D6-420B-A1A8-6A8DC2AA184A}
+	EndGlobalSection
+EndGlobal
