@@ -25,8 +25,7 @@ namespace HepsiYemek.API.Controllers
         public IActionResult Get(string _id)
         {
 
-            var b = 0;
-            var a = 30 / b;
+          
             var result = _categoryService.Get(_id);
             return Ok(new ServiceResponse(result));
 
